@@ -18,3 +18,4 @@ The goal for each player is to form a straight line of three of their own symbol
 <br>
 <img width="1440" alt="Screenshot 2024-09-24 at 12 47 26 AM" src="https://github.com/user-attachments/assets/e44c1d3a-1401-4b90-9cd5-a8b4f4903500">
 
+<br>Note: I have built this project as a practice of web development.
